@@ -1,0 +1,44 @@
+﻿  pch.cpp
+  Main.cpp
+c:\users\golicz\desktop\database\main\main\main.cpp(23): warning C4309: 'static_cast': truncation of constant value
+c:\users\golicz\desktop\database\main\main\main.cpp(24): warning C4309: 'static_cast': truncation of constant value
+c:\users\golicz\desktop\database\main\main\main.cpp(25): warning C4309: 'static_cast': truncation of constant value
+c:\users\golicz\desktop\database\main\main\main.cpp(26): warning C4309: 'static_cast': truncation of constant value
+c:\users\golicz\desktop\database\main\main\main.cpp(27): warning C4309: 'static_cast': truncation of constant value
+c:\users\golicz\desktop\database\main\main\main.cpp(28): warning C4309: 'static_cast': truncation of constant value
+c:\users\golicz\desktop\database\main\main\main.cpp(29): warning C4309: 'static_cast': truncation of constant value
+c:\users\golicz\desktop\database\main\main\main.cpp(30): warning C4309: 'static_cast': truncation of constant value
+c:\users\golicz\desktop\database\main\main\main.cpp(31): warning C4309: 'static_cast': truncation of constant value
+c:\users\golicz\desktop\database\main\main\main.cpp(32): warning C4309: 'static_cast': truncation of constant value
+c:\users\golicz\desktop\database\main\main\main.cpp(33): warning C4309: 'static_cast': truncation of constant value
+c:\users\golicz\desktop\database\main\main\main.cpp(34): warning C4309: 'static_cast': truncation of constant value
+c:\users\golicz\desktop\database\main\main\main.cpp(35): warning C4309: 'static_cast': truncation of constant value
+c:\users\golicz\desktop\database\main\main\main.cpp(36): warning C4309: 'static_cast': truncation of constant value
+c:\users\golicz\desktop\database\main\main\main.cpp(37): warning C4309: 'static_cast': truncation of constant value
+c:\users\golicz\desktop\database\main\main\main.cpp(38): warning C4309: 'static_cast': truncation of constant value
+c:\users\golicz\desktop\database\main\main\main.cpp(39): warning C4309: 'static_cast': truncation of constant value
+c:\users\golicz\desktop\database\main\main\main.cpp(40): warning C4309: 'static_cast': truncation of constant value
+c:\users\golicz\desktop\database\main\main\main.cpp(455): warning C4018: '<=': signed/unsigned mismatch
+c:\users\golicz\desktop\database\main\main\main.cpp(485): warning C4018: '<=': signed/unsigned mismatch
+c:\users\golicz\desktop\database\main\main\main.cpp(735): warning C4018: '<': signed/unsigned mismatch
+c:\users\golicz\desktop\database\main\main\main.cpp(756): warning C4018: '<': signed/unsigned mismatch
+c:\users\golicz\desktop\database\main\main\main.cpp(777): warning C4018: '<': signed/unsigned mismatch
+c:\users\golicz\desktop\database\main\main\main.cpp(798): warning C4018: '<': signed/unsigned mismatch
+c:\users\golicz\desktop\database\main\main\main.cpp(872): warning C4018: '<': signed/unsigned mismatch
+c:\users\golicz\desktop\database\main\main\main.cpp(885): warning C4018: '<': signed/unsigned mismatch
+c:\users\golicz\desktop\database\main\main\main.cpp(905): warning C4018: '<': signed/unsigned mismatch
+c:\users\golicz\desktop\database\main\main\main.cpp(956): warning C4018: '<': signed/unsigned mismatch
+c:\users\golicz\desktop\database\main\main\main.cpp(968): warning C4018: '<': signed/unsigned mismatch
+c:\users\golicz\desktop\database\main\main\main.cpp(986): warning C4018: '<': signed/unsigned mismatch
+c:\users\golicz\desktop\database\main\main\main.cpp(1019): warning C4018: '<': signed/unsigned mismatch
+c:\users\golicz\desktop\database\main\main\main.cpp(1029): warning C4018: '<': signed/unsigned mismatch
+c:\users\golicz\desktop\database\main\main\main.cpp(1057): warning C4018: '<': signed/unsigned mismatch
+c:\users\golicz\desktop\database\main\main\main.cpp(1062): warning C4018: '<': signed/unsigned mismatch
+c:\users\golicz\desktop\database\main\main\main.cpp(1081): warning C4018: '<': signed/unsigned mismatch
+c:\users\golicz\desktop\database\main\main\main.cpp(1106): warning C4018: '<': signed/unsigned mismatch
+c:\users\golicz\desktop\database\main\main\main.cpp(1235): warning C4101: 'iff': unreferenced local variable
+c:\users\golicz\desktop\database\main\main\main.cpp(1473): warning C4018: '<': signed/unsigned mismatch
+c:\users\golicz\desktop\database\main\main\main.cpp(1486): warning C4018: '<': signed/unsigned mismatch
+c:\users\golicz\desktop\database\main\main\main.cpp(1525): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\golicz\desktop\database\main\main\main.cpp(716): warning C4715: 'data_edition': not all control paths return a value
+  Main.vcxproj -> C:\Users\Golicz\Desktop\Database\Main\Debug\Main.exe

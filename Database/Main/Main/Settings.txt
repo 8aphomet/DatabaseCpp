@@ -1,0 +1,6 @@
+0.GenNames:0
+1.GenSurnames:0
+2.GenPesel:0
+3.GenBPlace:0
+4.GenManyPpl:0
+5.DltManyPpl:0
